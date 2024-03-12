@@ -1,1 +1,1 @@
-<circle cx="90" cy="40" r="60" fill="${this.shapeColor}" text="${this.text}" textColor="${this.textColor}" />
+<svg height="100" width="100" xmlns="http://www.w3.org/2000/svg"><circle cx="90" cy="40" r="60" fill="${this.shapeColor}" /><text x="30" y="55" font-size="35" fill="${this.textColor}" "${this.text}"/></svg>
